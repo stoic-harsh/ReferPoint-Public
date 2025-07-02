@@ -1,6 +1,6 @@
-# Refer Point - Empowering employees to refer, enabling HR to hire—faster 💼✨
+# Refer_Point - Simplifying Referrals, Accelerating Hiring 💼✨
 
-Referly is a versatile **Employee Referral Management Platform** designed to streamline the internal hiring process. It can be seamlessly integrated into your existing company portal - without spending a dime on backend tools or services.
+Refer-Point is a **Employee Referral Management Portal** designed to streamline the internal hiring process. It can be seamlessly integrated into your existing company portal - no backend setup or extra cost required.
 <br><br>
 
 ## 🌐Live Demo
@@ -20,10 +20,10 @@ https://refer-point.vercel.app/
 ## How It Works?
 
 1. **Sign-Up & Verification:**
-   - Users sign up on the platform. Admins (typically hiring leads) verify these profiles before login access is granted, ensuring control and security.
+   - Users sign up on the platform. Admins (typically hiring leads) can also create profiles, ensuring full control.
 
 3. **Admin Dashboard:**  
-   - Post and manage job descriptions.
+   - Post and manage active jobs.
    - View and update referrals status: **Scheduled**, **Hired**, or **Rejected**.
    - Each action triggers a pre-written email draft using the default mail client to keep everyone informed.
 
