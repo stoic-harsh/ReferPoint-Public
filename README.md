@@ -60,10 +60,10 @@ https://github.com/user-attachments/assets/2fa61541-a069-49ff-9121-c476df684a52
 
 ## 📸Screenshots
 
-![Home Page](screenshots/landing-page.png)  
-![Admin Dashboard](screenshots/admin-dashboard.png)
-![Admin Dashboard Dark Mode](screenshots/admin-dashboard-dark.png)
-![Employee Dashboard Dark Mode](screenshots/employee-dashboard-dark.png)
+![Home Page](https://github.com/stoic-harsh/ReferPoint/blob/main/screenshots/landing-page.png)  
+![Admin Dashboard](https://github.com/stoic-harsh/ReferPoint/blob/main/screenshots/admin-dashboard.png)
+![Admin Dashboard Dark Mode](https://github.com/stoic-harsh/ReferPoint/blob/main/screenshots/admin-dashboard-dark.png)
+![Employee Dashboard Dark Mode](https://github.com/stoic-harsh/ReferPoint/blob/main/screenshots/employee-dashboard-dark.png)
 <br><br>
 
 ## License
