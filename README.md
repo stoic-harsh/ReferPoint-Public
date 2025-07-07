@@ -48,7 +48,7 @@ https://refer-point.vercel.app/
 <br><br>
 
 ## Video Demo
-https://github.com/user-attachments/assets/2fa61541-a069-49ff-9121-c476df684a52
+https://github.com/user-attachments/assets/ecd43979-6b97-49d2-a949-e97974fb61fe
 
 <br><br>
 
